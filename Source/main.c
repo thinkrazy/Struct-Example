@@ -7,6 +7,7 @@ typedef struct
     Vector3 position;
     int health;
 } Player;
+
 int main()
 {
     Vector3 position;
