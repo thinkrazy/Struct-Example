@@ -1,0 +1,6 @@
+# CodeBlocks files & directories.
+*.layout
+*.depend
+*.cbp
+bin/
+obj/
